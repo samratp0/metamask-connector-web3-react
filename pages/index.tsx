@@ -7,7 +7,7 @@ export default function Home() {
 	return (
 		<>
 			<Head>
-				<title>Neptune Mutual Assignment</title>
+				<title>Metamask Connector</title>
 				<meta name="description" content="Built by Samrat" />
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
 				<link rel="icon" href="/favicon.ico" />

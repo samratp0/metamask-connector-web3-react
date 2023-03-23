@@ -53,9 +53,9 @@ const Converter = () => {
 						src="/favicon.ico"
 						width={50}
 						height={50}
-						alt="Neptune Mutual Logo"
+						alt="Metamask Logo"
 					/>
-					<h1>Neptune Mutual</h1>
+					<h1>Connect Metamask</h1>
 				</div>
 				<div className="form">
 					<h2>Crypto converter</h2>
@@ -108,11 +108,6 @@ const StyledConverter = styled.div`
 		align-items: center;
 		gap: 20px;
 		margin-bottom: 20px;
-
-		img {
-			border: 1px solid ${(props) => props.theme.text};
-			border-radius: 50%;
-		}
 
 		h1 {
 			text-transform: uppercase;
