@@ -16,6 +16,6 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the assignment.
 
-Assignment features a Crypto Converter NEP to BUSD.
+Features a Crypto Converter NEP to BUSD.
 
 Contains feature to connect to and check Metamask balance.
